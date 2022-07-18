@@ -1,0 +1,6 @@
+jupyter
+black
+pylint
+mypy
+numpy
+matplotlib
